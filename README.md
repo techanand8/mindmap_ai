@@ -1,6 +1,14 @@
 🌱 MindfulYouth – AI Mental Wellness Assistant
 
-<img width="119" height="28" alt="image" src="https://github.com/user-attachments/assets/4b25f96c-2e59-4ed1-8e67-583d0b8c2eec" />
+<img width="119" height="28" alt="image" src="https://github.com/user-attachments/assets/215152a3-ec31-4b82-93a4-8fcb0866d742" />
+
+
+<img width="145" height="28" alt="image" src="https://github.com/user-attachments/assets/6b6f356d-5636-4864-911d-fa8799d150b9" />
+
+
+
+
+<img width="249" height="28" alt="image" src="https://github.com/user-attachments/assets/4e913b04-b997-4514-98c9-ff9185f150d3" />
 
 
 MindfulYouth is an AI-powered mental wellness assistant that offers real-time emotion detection, empathetic responses, voice input, and both offline (Ollama) & online (Gemini) AI support. Built with Streamlit, it helps users explore AI, emotional awareness, and interactive chat experiences.
